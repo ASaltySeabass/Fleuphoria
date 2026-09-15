@@ -5730,3 +5730,12 @@ Entries:
       message: Fixed visuals of rubber magazines for most magazine types.
   id: 713
   time: '2026-09-12T08:44:12.0000000+00:00'
+- author: Dunrab
+  changes:
+    - type: Add
+      message: >-
+        Added a trait for characters that take snouts from the Vulpkanin
+        species, the trait will make things like gas masks display properly on
+        your character.
+  id: 714
+  time: '2026-09-13T07:44:42.0000000+00:00'
