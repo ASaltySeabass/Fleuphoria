@@ -5706,3 +5706,9 @@ Entries:
       message: patch for the voresystem, adjusting components and bugfixes
   id: 709
   time: '2026-09-15T08:34:45.0000000+00:00'
+- author: Eagle0600
+  changes:
+    - type: Fix
+      message: 'Submarine: Fixed janitor maints door access.'
+  id: 710
+  time: '2026-09-15T14:38:11.0000000+00:00'
