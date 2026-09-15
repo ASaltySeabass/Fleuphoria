@@ -5783,3 +5783,9 @@ Entries:
       message: Trash Lizards - a port of bingles from goobstation
   id: 720
   time: '2026-09-14T10:13:13.0000000+00:00'
+- author: JaDiDo
+  changes:
+    - type: Tweak
+      message: patch for the voresystem, adjusting components and bugfixes
+  id: 721
+  time: '2026-09-15T08:34:45.0000000+00:00'
