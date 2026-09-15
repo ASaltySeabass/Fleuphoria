@@ -5751,3 +5751,15 @@ Entries:
       message: Fixed Geras not being able to breath by giving them lungs.
   id: 716
   time: '2026-09-13T12:32:13.0000000+00:00'
+- author: kivdon
+  changes:
+    - type: Add
+      message: >-
+        Added duffel napsack. Large enough for 2 Small crewmates to snuggle
+        together in. 
+    - type: Tweak
+      message: >-
+        Slightly adjusted loadouts and cargo napsack crate to account for duffel
+        napsacks.
+  id: 717
+  time: '2026-09-14T07:10:29.0000000+00:00'
