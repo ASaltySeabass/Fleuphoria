@@ -5801,3 +5801,9 @@ Entries:
       message: For those that are the reel deal, you can now craft a Bass Guitar.
   id: 723
   time: '2026-09-15T08:38:07.0000000+00:00'
+- author: Aikakakah
+  changes:
+    - type: Add
+      message: 'Markings now support shaders. '
+  id: 724
+  time: '2026-09-15T08:38:38.0000000+00:00'
