@@ -5807,3 +5807,11 @@ Entries:
       message: 'Markings now support shaders. '
   id: 724
   time: '2026-09-15T08:38:38.0000000+00:00'
+- author: Mnemotechnician
+  changes:
+    - type: Fix
+      message: >-
+        Importing a profile with "Shadowkin" in the `species` field should no
+        longer cause profile import to fail.
+  id: 725
+  time: '2026-09-15T12:29:41.0000000+00:00'
