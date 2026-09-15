@@ -5700,3 +5700,9 @@ Entries:
       message: Fixed a lot of bugs and added more bugs to fix.
   id: 708
   time: '2026-09-10T12:08:02.0000000+00:00'
+- author: JaDiDo
+  changes:
+    - type: Tweak
+      message: patch for the voresystem, adjusting components and bugfixes
+  id: 709
+  time: '2026-09-15T08:34:45.0000000+00:00'
