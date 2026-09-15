@@ -5739,3 +5739,9 @@ Entries:
         your character.
   id: 714
   time: '2026-09-13T07:44:42.0000000+00:00'
+- author: SyaoranFox
+  changes:
+    - type: Fix
+      message: Wagging now only shows up on characters who have tails that can wag.
+  id: 715
+  time: '2026-09-13T12:31:52.0000000+00:00'
