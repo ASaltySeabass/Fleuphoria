@@ -5771,3 +5771,9 @@ Entries:
         pre-rebase prices.
   id: 718
   time: '2026-09-14T07:14:31.0000000+00:00'
+- author: IcarusianFolly
+  changes:
+    - type: Add
+      message: Added the esteemed Chief Justice Samzar'Hrar as a plushie!
+  id: 719
+  time: '2026-09-14T10:12:52.0000000+00:00'
