@@ -5763,3 +5763,11 @@ Entries:
         napsacks.
   id: 717
   time: '2026-09-14T07:10:29.0000000+00:00'
+- author: Raikyr0
+  changes:
+    - type: Tweak
+      message: >-
+        Bought Juggernaut suit back to normal syndicate uplinks and lowered to
+        pre-rebase prices.
+  id: 718
+  time: '2026-09-14T07:14:31.0000000+00:00'
