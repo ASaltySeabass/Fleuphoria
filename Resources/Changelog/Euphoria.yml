@@ -5794,3 +5794,15 @@ Entries:
       message: 'Changed the "No Paradox Clone" trait to not take up a trait slot. '
   id: 723
   time: '2026-09-16T03:29:28.0000000+00:00'
+- author: Dunrab
+  changes:
+    - type: Fix
+      message: >-
+        Slimes and Kitunes should now be able to safely polymorph in the
+        ghostbar.
+    - type: Fix
+      message: >-
+        Players at the ghostbar should no longer be able to be telepathic or
+        marked for removal or marked to be taught a lesson.
+  id: 724
+  time: '2026-09-16T03:32:23.0000000+00:00'
