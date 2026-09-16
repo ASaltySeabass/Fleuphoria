@@ -5806,3 +5806,23 @@ Entries:
         marked for removal or marked to be taught a lesson.
   id: 724
   time: '2026-09-16T03:32:23.0000000+00:00'
+- author: M3739
+  changes:
+    - type: Tweak
+      message: >-
+        Allulalos can no longer take Claws, Natural Weapon Removal, Talons, and
+        Small traits. They are already smol with a bite to match.
+    - type: Tweak
+      message: >-
+        Allulalo marking names are changed for better discernment from other
+        markings.
+    - type: Fix
+      message: >-
+        The Small trait should now be correctly restricted from species who can
+        be put into bags as an innate capability
+    - type: Tweak
+      message: >-
+        Kitsune can no longer take the 'lightweight drunk' trait as they already
+        possess it innately at a higher intensity.
+  id: 725
+  time: '2026-09-16T09:57:04.0000000+00:00'
