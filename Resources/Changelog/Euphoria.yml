@@ -5788,3 +5788,9 @@ Entries:
         longer cause profile import to fail.
   id: 722
   time: '2026-09-15T12:29:41.0000000+00:00'
+- author: kivdon
+  changes:
+    - type: Tweak
+      message: 'Changed the "No Paradox Clone" trait to not take up a trait slot. '
+  id: 723
+  time: '2026-09-16T03:29:28.0000000+00:00'
