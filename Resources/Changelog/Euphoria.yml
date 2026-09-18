@@ -5832,3 +5832,9 @@ Entries:
       message: Added more AAC words
   id: 726
   time: '2026-09-16T09:58:06.0000000+00:00'
+- author: cyberjoel
+  changes:
+    - type: Tweak
+      message: Improved functionality of the Ahelp and Chelp systems.
+  id: 727
+  time: '2026-09-18T20:53:12.0000000+00:00'
