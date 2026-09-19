@@ -5850,3 +5850,9 @@ Entries:
       message: The chance for oracle to give normality has been lowered (50% -> 5%)
   id: 729
   time: '2026-09-19T02:33:03.0000000+00:00'
+- author: Aureuix
+  changes:
+    - type: Tweak
+      message: Most species now have 10 marking slots for all categories.
+  id: 730
+  time: '2026-09-19T03:00:05.0000000+00:00'
