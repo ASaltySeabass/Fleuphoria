@@ -5906,3 +5906,9 @@ Entries:
       message: Shadekin once again have black blood
   id: 738
   time: '2026-09-20T15:23:44.0000000+00:00'
+- author: Aikakakah
+  changes:
+    - type: Fix
+      message: Busty undershirts are now in the undershirt clothing category.
+  id: 739
+  time: '2026-09-20T15:24:29.0000000+00:00'
