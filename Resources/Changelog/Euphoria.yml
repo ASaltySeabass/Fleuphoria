@@ -5894,3 +5894,9 @@ Entries:
         tweeked/fixed. Also Avali are too short for them.
   id: 736
   time: '2026-09-20T07:27:33.0000000+00:00'
+- author: SyaoranFox
+  changes:
+    - type: Fix
+      message: Rodentia can change their base tail again
+  id: 737
+  time: '2026-09-20T15:22:41.0000000+00:00'
