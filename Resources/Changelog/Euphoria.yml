@@ -5880,3 +5880,9 @@ Entries:
       message: The construction bag can now pick up circuit boards.
   id: 734
   time: '2026-09-20T04:14:55.0000000+00:00'
+- author: ScarlettJFG
+  changes:
+    - type: Fix
+      message: Geras Eye color is no longer their skin color.
+  id: 735
+  time: '2026-09-20T05:09:25.0000000+00:00'
