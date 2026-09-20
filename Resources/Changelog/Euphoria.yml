@@ -5868,3 +5868,9 @@ Entries:
       message: Readded Security Ponchos to Loadout and SecDrobe.
   id: 732
   time: '2026-09-20T04:05:51.0000000+00:00'
+- author: IcarusianFolly
+  changes:
+    - type: Fix
+      message: IPCs are now weldable.
+  id: 733
+  time: '2026-09-20T04:14:14.0000000+00:00'
