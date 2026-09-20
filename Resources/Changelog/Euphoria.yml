@@ -5886,3 +5886,11 @@ Entries:
       message: Geras Eye color is no longer their skin color.
   id: 735
   time: '2026-09-20T05:09:25.0000000+00:00'
+- author: SyaoranFox
+  changes:
+    - type: Fix
+      message: >-
+        Added wings that can be taken by anyone, however some need to be
+        tweeked/fixed. Also Avali are too short for them.
+  id: 736
+  time: '2026-09-20T07:27:33.0000000+00:00'
