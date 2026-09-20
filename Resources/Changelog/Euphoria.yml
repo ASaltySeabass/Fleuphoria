@@ -5900,3 +5900,9 @@ Entries:
       message: Rodentia can change their base tail again
   id: 737
   time: '2026-09-20T15:22:41.0000000+00:00'
+- author: SyaoranFox
+  changes:
+    - type: Fix
+      message: Shadekin once again have black blood
+  id: 738
+  time: '2026-09-20T15:23:44.0000000+00:00'
