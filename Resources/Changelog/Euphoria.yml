@@ -5862,3 +5862,9 @@ Entries:
       message: Removed forced messy drinking from Vulpkanins.
   id: 731
   time: '2026-09-20T02:45:40.0000000+00:00'
+- author: IcarusianFolly
+  changes:
+    - type: Add
+      message: Readded Security Ponchos to Loadout and SecDrobe.
+  id: 732
+  time: '2026-09-20T04:05:51.0000000+00:00'
