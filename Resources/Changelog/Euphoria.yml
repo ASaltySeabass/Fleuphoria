@@ -5874,3 +5874,9 @@ Entries:
       message: IPCs are now weldable.
   id: 733
   time: '2026-09-20T04:14:14.0000000+00:00'
+- author: Dunrab
+  changes:
+    - type: Tweak
+      message: The construction bag can now pick up circuit boards.
+  id: 734
+  time: '2026-09-20T04:14:55.0000000+00:00'
