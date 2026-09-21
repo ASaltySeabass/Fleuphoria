@@ -5920,3 +5920,11 @@ Entries:
       message: Everyone gets more hair slots.
   id: 740
   time: '2026-09-20T15:24:55.0000000+00:00'
+- author: Dunrab
+  changes:
+    - type: Add
+      message: >-
+        A preening trait is now selectable that will allow other species besides
+        Avali to preen their feathers.
+  id: 741
+  time: '2026-09-21T02:26:54.0000000+00:00'
