@@ -5992,3 +5992,9 @@ Entries:
         facing east.
   id: 748
   time: '2026-09-22T03:19:26.0000000+00:00'
+- author: Dunrab
+  changes:
+    - type: Fix
+      message: At the two hour mark voting to end the round should appear again.
+  id: 749
+  time: '2026-09-22T03:22:42.0000000+00:00'
