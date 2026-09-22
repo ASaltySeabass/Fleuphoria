@@ -5976,3 +5976,11 @@ Entries:
         PDA.
   id: 746
   time: '2026-09-22T03:13:32.0000000+00:00'
+- author: IcarusianFolly
+  changes:
+    - type: Add
+      message: 'Added three new plushies: Kenshi Thompson, MOIRA, and LITURGIYA.'
+    - type: Tweak
+      message: Updated the Eus Hi'Iaka/Rescue Fox Plush.
+  id: 747
+  time: '2026-09-22T03:18:10.0000000+00:00'
