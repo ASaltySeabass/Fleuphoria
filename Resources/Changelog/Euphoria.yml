@@ -5998,3 +5998,9 @@ Entries:
       message: At the two hour mark voting to end the round should appear again.
   id: 749
   time: '2026-09-22T03:22:42.0000000+00:00'
+- author: badlanduser
+  changes:
+    - type: Tweak
+      message: Energy Magnum now easier to tell which fire mode you are on at a glance
+  id: 750
+  time: '2026-09-22T03:40:00.0000000+00:00'
