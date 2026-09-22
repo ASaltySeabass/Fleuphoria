@@ -5968,3 +5968,11 @@ Entries:
       message: Allow the Rickenbacker to go in the backslot.
   id: 745
   time: '2026-09-22T03:10:02.0000000+00:00'
+- author: deltaSpawn0040
+  changes:
+    - type: Fix
+      message: >-
+        Senior Engineer collar now takes just as long to earn as Senior Engineer
+        PDA.
+  id: 746
+  time: '2026-09-22T03:13:32.0000000+00:00'
