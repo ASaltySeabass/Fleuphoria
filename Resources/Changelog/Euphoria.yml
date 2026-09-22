@@ -5954,3 +5954,11 @@ Entries:
       message: Moths should now be able to eat fruit again.
   id: 743
   time: '2026-09-22T03:05:44.0000000+00:00'
+- author: Dunrab
+  changes:
+    - type: Add
+      message: >-
+        You can now take the Pettable trait that lets you be pet with left click
+        interacts.
+  id: 744
+  time: '2026-09-22T03:07:09.0000000+00:00'
