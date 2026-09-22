@@ -5984,3 +5984,11 @@ Entries:
       message: Updated the Eus Hi'Iaka/Rescue Fox Plush.
   id: 747
   time: '2026-09-22T03:18:10.0000000+00:00'
+- author: M3739
+  changes:
+    - type: Fix
+      message: >-
+        Allulalos can no longer perform a vanishing act with held items by
+        facing east.
+  id: 748
+  time: '2026-09-22T03:19:26.0000000+00:00'
