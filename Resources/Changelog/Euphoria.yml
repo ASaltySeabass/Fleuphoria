@@ -5948,3 +5948,9 @@ Entries:
         the new berries so check the guidebook.
   id: 742
   time: '2026-09-21T07:44:09.0000000+00:00'
+- author: Dunrab
+  changes:
+    - type: Fix
+      message: Moths should now be able to eat fruit again.
+  id: 743
+  time: '2026-09-22T03:05:44.0000000+00:00'
