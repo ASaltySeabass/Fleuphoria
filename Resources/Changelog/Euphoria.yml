@@ -5962,3 +5962,9 @@ Entries:
         interacts.
   id: 744
   time: '2026-09-22T03:07:09.0000000+00:00'
+- author: Dunrab
+  changes:
+    - type: Tweak
+      message: Allow the Rickenbacker to go in the backslot.
+  id: 745
+  time: '2026-09-22T03:10:02.0000000+00:00'
