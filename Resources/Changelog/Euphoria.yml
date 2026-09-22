@@ -6004,3 +6004,15 @@ Entries:
       message: Energy Magnum now easier to tell which fire mode you are on at a glance
   id: 750
   time: '2026-09-22T03:40:00.0000000+00:00'
+- author: Dunrab
+  changes:
+    - type: Add
+      message: Most jobs will inherit the passenger mask options.
+    - type: Add
+      message: Zookeeper will have access to other jumpsuit options now
+    - type: Fix
+      message: >-
+        Chefs should not have duplicate selectable PDAs and Boxers should not
+        spawn with duplicate PDAs.
+  id: 751
+  time: '2026-09-22T05:09:01.0000000+00:00'
