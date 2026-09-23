@@ -6022,3 +6022,11 @@ Entries:
       message: Allulalo can now be lighter colors!
   id: 752
   time: '2026-09-23T02:21:42.0000000+00:00'
+- author: Dunrab
+  changes:
+    - type: Fix
+      message: >-
+        The portable pump should now stop sucking up puddles when its capacity
+        is full.
+  id: 753
+  time: '2026-09-23T02:23:03.0000000+00:00'
