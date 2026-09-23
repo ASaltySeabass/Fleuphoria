@@ -6030,3 +6030,12 @@ Entries:
         is full.
   id: 753
   time: '2026-09-23T02:23:03.0000000+00:00'
+- author: Dunrab
+  changes:
+    - type: Add
+      message: >-
+        Refined bananium now has a half-life of 43 minutes. This means that
+        after 43 minutes, only half of the bananium will remain, unless it is
+        stored in a lathe.
+  id: 754
+  time: '2026-09-23T02:28:01.0000000+00:00'
