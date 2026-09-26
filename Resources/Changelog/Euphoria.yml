@@ -6073,3 +6073,11 @@ Entries:
       message: Uncooked buns now take less time to craft (5s -> 0.5s)
   id: 759
   time: '2026-09-25T13:47:20.0000000+00:00'
+- author: Dunrab
+  changes:
+    - type: Tweak
+      message: >-
+        Burned messes and Cucumber slices should now be able to go onto burgers
+        and tacos.
+  id: 760
+  time: '2026-09-26T09:46:49.0000000+00:00'
