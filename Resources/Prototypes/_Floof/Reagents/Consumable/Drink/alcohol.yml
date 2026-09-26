@@ -36,7 +36,8 @@
   metabolisms:
     Digestion:
       metabolites:
-        Pomelustine: 0.3
+        Ethanol: 0.12
+        Pomelustine: 0.5
 
 - type: reagent
   id: Anisette
@@ -1148,7 +1149,7 @@
 - type: reagent
   id: TheCuteCaptain
   name: reagent-name-the-cute-captain
-  parent: BaseJuice
+  parent: BaseAlcohol
   desc: reagent-desc-the-cute-captain
   physicalDesc: reagent-physical-desc-starry
   flavor: thecutecaptain
@@ -1162,7 +1163,7 @@
   metabolisms:
     Digestion:
       metabolites:
-        Pomelustine: 0.3
+        Pomelustine: 0.25
 
 - type: reagent
   id: AxelsAle
