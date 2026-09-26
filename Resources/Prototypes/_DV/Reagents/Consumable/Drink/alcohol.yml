@@ -9,12 +9,14 @@
   recognizable: true
   metabolisms:
     Digestion:
-      effects:
-      - !type:SatiateThirst
-        factor: 1
-      - !type:AdjustReagent
-        reagent: Ethanol
-        amount: 0.3
+      metabolites:
+        Ethanol: 0.3 #Euphoria change - Uses updated/upstream metabolism changes
+#      effects:
+#      - !type:SatiateThirst
+#        factor: 1
+#      - !type:AdjustReagent
+#        reagent: Ethanol
+#        amount: 0.3
 
 - type: reagent
   id: OldFashioned

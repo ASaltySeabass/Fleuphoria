@@ -141,12 +141,14 @@
   metamorphicFillBaseName: fill-
   metabolisms:
     Digestion:
-      effects:
-      - !type:SatiateThirst
-        factor: 2
-      - !type:AdjustReagent
-        reagent: Ethanol
-        amount: 0.05
+      metabolites:
+        Ethanol: 0.05
+#      effects:
+#      - !type:SatiateThirst
+#        factor: 2
+#      - !type:AdjustReagent
+#        reagent: Ethanol
+#        amount: 0.05
 
 - type: reagent
   id: ArsonistsBrew
