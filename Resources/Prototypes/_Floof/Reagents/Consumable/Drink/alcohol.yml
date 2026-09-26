@@ -1163,6 +1163,7 @@
   metabolisms:
     Digestion:
       metabolites:
+        Ethanol: 0.12
         Pomelustine: 0.25
 
 - type: reagent
