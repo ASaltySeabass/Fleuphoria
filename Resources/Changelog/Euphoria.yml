@@ -6164,3 +6164,12 @@ Entries:
       message: Centcomm has been further improved, adding an ERT and Galpol Wing.
   id: 770
   time: '2026-09-28T13:47:13.0000000+00:00'
+- author: Dunrab
+  changes:
+    - type: Add
+      message: >-
+        You can now select specific species emotes as traits. For the following
+        species: Vulpknain, Kitsune, Felinid and Slime person. Note: These will
+        in fact override your base species emotes.
+  id: 771
+  time: '2026-09-28T15:33:30.0000000+00:00'
