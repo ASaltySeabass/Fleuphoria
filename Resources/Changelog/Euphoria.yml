@@ -6195,3 +6195,11 @@ Entries:
       message: Added Fuzzy Handcuffs and Play Handcuffs to Loadouts
   id: 774
   time: '2026-09-28T15:38:34.0000000+00:00'
+- author: SyaoranFox
+  changes:
+    - type: Tweak
+      message: >-
+        Ported event conditions from pre-rebase: some high-impact events will
+        not fire unless there are enough members in a relevant department.
+  id: 775
+  time: '2026-09-28T15:39:36.0000000+00:00'
