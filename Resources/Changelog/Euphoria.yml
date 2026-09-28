@@ -6189,3 +6189,9 @@ Entries:
         been tweaked.
   id: 773
   time: '2026-09-28T15:37:14.0000000+00:00'
+- author: DrCinnamonroll
+  changes:
+    - type: Add
+      message: Added Fuzzy Handcuffs and Play Handcuffs to Loadouts
+  id: 774
+  time: '2026-09-28T15:38:34.0000000+00:00'
