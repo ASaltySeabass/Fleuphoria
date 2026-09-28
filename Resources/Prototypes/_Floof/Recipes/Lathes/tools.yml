@@ -42,3 +42,43 @@
   materials:
     Steel: 800
     Durathread: 300
+
+- type: latheRecipe
+  id: GlowstickGreenCraftable
+  result: GlowstickGreen
+  completetime: 0.5
+  materials:
+    Plastic: 50
+    Plasma: 10
+
+- type: latheRecipe
+  id: GlowstickBlueCraftable
+  result: GlowstickBlue
+  completetime: 0.5
+  materials:
+    Plastic: 50
+    Plasma: 10
+
+- type: latheRecipe
+  id: GlowstickPurpleCraftable
+  result: GlowstickPurple
+  completetime: 0.5
+  materials:
+    Plastic: 50
+    Plasma: 10
+
+- type: latheRecipe
+  id: GlowstickRedCraftable
+  result: GlowstickRed
+  completetime: 0.5
+  materials:
+    Plastic: 50
+    Plasma: 10
+
+- type: latheRecipe
+  id: GlowstickYellowCraftable
+  result: GlowstickYellow
+  completetime: 0.5
+  materials:
+    Plastic: 50
+    Plasma: 10
