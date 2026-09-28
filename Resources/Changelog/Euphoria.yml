@@ -6181,3 +6181,11 @@ Entries:
       message: Arcade prize max rewards from 10-50 to 20-100.
   id: 772
   time: '2026-09-28T15:34:14.0000000+00:00'
+- author: ASaltySeabass
+  changes:
+    - type: Tweak
+      message: >-
+        Shadekin are no longer allowed to buy gas station weed. Eye sprites have
+        been tweaked.
+  id: 773
+  time: '2026-09-28T15:37:14.0000000+00:00'
