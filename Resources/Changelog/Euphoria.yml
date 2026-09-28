@@ -6203,3 +6203,11 @@ Entries:
         not fire unless there are enough members in a relevant department.
   id: 775
   time: '2026-09-28T15:39:36.0000000+00:00'
+- author: CastitoWae
+  changes:
+    - type: Add
+      message: >-
+        Glow sticks can now be printed in the engineering, logistics, security
+        and service techfabs.
+  id: 776
+  time: '2026-09-28T15:55:36.0000000+00:00'
