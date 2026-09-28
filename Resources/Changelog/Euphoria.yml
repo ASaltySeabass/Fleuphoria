@@ -6158,3 +6158,9 @@ Entries:
         was client side only.
   id: 769
   time: '2026-09-28T03:39:09.0000000+00:00'
+- author: WhiteLightningTwister
+  changes:
+    - type: Tweak
+      message: Centcomm has been further improved, adding an ERT and Galpol Wing.
+  id: 770
+  time: '2026-09-28T13:47:13.0000000+00:00'
