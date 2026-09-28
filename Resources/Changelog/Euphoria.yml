@@ -6142,3 +6142,19 @@ Entries:
       message: Fixed bounty computer and offer keybind localization issues.
   id: 768
   time: '2026-09-28T03:37:59.0000000+00:00'
+- author: SyaoranFox
+  changes:
+    - type: Tweak
+      message: >-
+        Rules for Trash Lizard to clearly place them as an "antag" who can try
+        to be friendly.
+    - type: Tweak
+      message: >-
+        Trash Lizard events now has a cooldown of 30 minutes between new
+        instances.
+    - type: Fix
+      message: >-
+        Lizards now show everyone when they are in combat mode. Previously it
+        was client side only.
+  id: 769
+  time: '2026-09-28T03:39:09.0000000+00:00'
