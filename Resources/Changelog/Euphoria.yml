@@ -6128,3 +6128,11 @@ Entries:
         sounds.
   id: 766
   time: '2026-09-27T05:21:31.0000000+00:00'
+- author: Mnemotechnician
+  changes:
+    - type: Tweak
+      message: >-
+        People, animals, and pests no longer have 10 mouths: they can only
+        ingest one thing at a time.
+  id: 767
+  time: '2026-09-28T03:37:48.0000000+00:00'
