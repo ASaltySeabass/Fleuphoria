@@ -6233,3 +6233,11 @@ Entries:
         you can tie a clown to a shuttle and take them on a wild ride!
   id: 777
   time: '2026-09-28T07:44:07.0000000+00:00'
+- author: Mnemotechnician
+  changes:
+    - type: Fix
+      message: >-
+        The "publish changelog" workflow should no longer repost changelogs from
+        weeks ago.
+  id: 778
+  time: '2026-09-29T11:52:33.0000000+00:00'
