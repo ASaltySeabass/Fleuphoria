@@ -6477,3 +6477,9 @@ Entries:
       message: doubled the number of charges spraypaint cans have
   id: 804
   time: '2026-10-10T23:12:16.0000000+00:00'
+- author: Arbitrated
+  changes:
+    - type: Fix
+      message: THC now metabolizes more properly, go get high on edibles and blunts!
+  id: 805
+  time: '2026-10-11T04:22:28.0000000+00:00'
