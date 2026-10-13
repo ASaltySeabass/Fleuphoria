@@ -6509,3 +6509,9 @@ Entries:
         to spawn every 15-45 minutes (instead of 5%)
   id: 808
   time: '2026-10-13T12:36:28.0000000+00:00'
+- author: kivdon
+  changes:
+    - type: Add
+      message: 'Added naga tail markings, so you can turn your character into a naga. '
+  id: 809
+  time: '2026-10-13T07:27:51.0000000+00:00'
