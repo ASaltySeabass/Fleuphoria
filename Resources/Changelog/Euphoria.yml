@@ -6521,3 +6521,11 @@ Entries:
       message: Removed speedboots from T3 Service.
   id: 810
   time: '2026-10-13T07:28:18.0000000+00:00'
+- author: kivdon
+  changes:
+    - type: Add
+      message: >-
+        Added Psionic Insensitivity trait. Prevents you from rolling or
+        receiving psionic powers. 
+  id: 811
+  time: '2026-10-13T07:30:17.0000000+00:00'
