@@ -6489,3 +6489,11 @@ Entries:
       message: The Wood Viper can no longer take high capacity pistol magazines.
   id: 806
   time: '2026-10-11T04:23:12.0000000+00:00'
+- author: ASaltySeabass
+  changes:
+    - type: Tweak
+      message: >-
+        Adjusted the metabolisms of some drinks so that they're more consistent
+        with their ingredients.
+  id: 807
+  time: '2026-10-13T07:27:11.0000000+00:00'
