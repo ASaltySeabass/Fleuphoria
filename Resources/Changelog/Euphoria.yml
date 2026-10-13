@@ -6497,3 +6497,15 @@ Entries:
         with their ingredients.
   id: 807
   time: '2026-10-13T07:27:11.0000000+00:00'
+- author: Mnemotechnician
+  changes:
+    - type: Fix
+      message: >-
+        Meteor swarms and other job count-guarded events should now correctly
+        count jobs.
+    - type: Tweak
+      message: >-
+        Station traffic control events (unknown shuttles) now have a 50% chance
+        to spawn every 15-45 minutes (instead of 5%)
+  id: 808
+  time: '2026-10-13T12:36:28.0000000+00:00'
