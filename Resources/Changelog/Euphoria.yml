@@ -6547,3 +6547,12 @@ Entries:
       message: Reduced the number of security slots available on most stations
   id: 814
   time: '2026-10-14T09:46:14.0000000+00:00'
+- author: Dunrab
+  changes:
+    - type: Add
+      message: >-
+        Ported Wizdens AFK Kick to help stop high pop maps from being the only
+        votes when there isn't actually enough active players to play those
+        maps.
+  id: 815
+  time: '2026-10-14T09:48:45.0000000+00:00'
