@@ -6541,3 +6541,9 @@ Entries:
       message: Vampirism trait.
   id: 813
   time: '2026-10-14T09:45:17.0000000+00:00'
+- author: ASaltySeabass
+  changes:
+    - type: Tweak
+      message: Reduced the number of security slots available on most stations
+  id: 814
+  time: '2026-10-14T09:46:14.0000000+00:00'
