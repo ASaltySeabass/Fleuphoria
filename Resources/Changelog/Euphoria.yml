@@ -6529,3 +6529,9 @@ Entries:
         receiving psionic powers. 
   id: 811
   time: '2026-10-13T07:30:17.0000000+00:00'
+- author: Katarn1933
+  changes:
+    - type: Fix
+      message: Lighthouse bought hardsuits for atmos techs!
+  id: 812
+  time: '2026-10-14T04:04:46.0000000+00:00'
