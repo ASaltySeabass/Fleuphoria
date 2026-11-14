@@ -57,8 +57,8 @@
   - FloofSocksSecurityOfficer # Floof
   - SurvivalSecurity
   - GroupSpeciesBreathToolSecurity
-  - SecurityAllFirearm # Euphoria - Was SecurityRevolverFirearm
-  - SecurityAllAmmo # Euphoria - Was SecurityRevolverAmmo
+  - SecurityAllFirearm # Euphoria - Was SecurityFirearm
+  - SecurityAllAmmo # Euphoria - Was SecurityFirearmAmmo
   - SecurityUtility
 
 # Wildcards

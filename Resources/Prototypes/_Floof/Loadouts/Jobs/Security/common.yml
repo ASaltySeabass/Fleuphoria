@@ -32,6 +32,16 @@
     mask: ClothingMaskGasSecCombat
 
 - type: loadout
+  id: MaskSecDrone
+  equipment:
+    mask: ClothingMaskGasDroneSecurity
+
+- type: loadout
+  id: MaskSecDroneHoodless
+  equipment:
+    mask: ClothingMaskGasDroneSecurityHoodless
+
+- type: loadout
   id: MaskSecSwat
   effects:
   - !type:GroupLoadoutEffect

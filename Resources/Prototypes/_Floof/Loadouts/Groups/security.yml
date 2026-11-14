@@ -22,6 +22,8 @@
   - MaskSecBreathMask
   - MaskSecGasMask
   - MaskSecGasCombat
+  - MaskSecDrone
+  - MaskSecDroneHoodless
   - MaskSecSwat
   - MaskSecSwatOpen
 
