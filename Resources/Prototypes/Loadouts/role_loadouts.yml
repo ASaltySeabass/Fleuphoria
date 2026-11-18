@@ -649,6 +649,7 @@
   - SecurityBackpack
   - DetectiveOuterClothingDeltaV # DeltaV - Replaced with DeltaV version, was DetectiveOuterClothing
   - FloofSecurityDetectivePdas # Detective pdas
+  - FloofDetectiveBelt # Euphoria - Allows detectives to choose their belt
   - FloofDetectiveGloves # Floofstation - detective gloves
   - FloofDetectiveShoes # Floofstation - detective shoes
   - SurvivalSecurity
@@ -659,6 +660,7 @@
   - FloofUndergarmentTopDetective # Floof
   - FloofUndergarmentBottomDetective # Floof
   - FloofSocksDetective # Floof
+  - SecurityUtility # Euphoria
 
 - type: roleLoadout
   id: JobSecurityCadet
